@@ -1,0 +1,16 @@
+{
+  "name": "audiouploadar",
+  "version": "1.0.0",
+  "description": "this plugin is created for uploading audio also paste audio link in editor js . this plugin is created by akshay rathod ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "editorjs",
+    "audioplugin",
+    "aditoraudio"
+  ],
+  "author": "Akshay Rathod",
+  "license": "ISC"
+}
